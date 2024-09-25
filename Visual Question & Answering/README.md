@@ -1,6 +1,6 @@
-###**Explanation**
+### **Explanation**
 
-#####This code uses the Gradio library and Hugging Face Transformers to create an interface for Visual Question Answering (VQA) with audio output. It allows users to upload an image, ask a question about it, and the model generates an answer which is then converted into an audio file and played back to the user.
+##### This code uses the Gradio library and Hugging Face Transformers to create an interface for Visual Question Answering (VQA) with audio output. It allows users to upload an image, ask a question about it, and the model generates an answer which is then converted into an audio file and played back to the user.
 
 **Installing Required Libraries:**
 
