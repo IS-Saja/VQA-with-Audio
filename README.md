@@ -13,6 +13,11 @@ This project aims to develop an interactive application that answers visual ques
 - Google Text-to-Speech (gTTS): Converting text answers into spoken audio for a richer user experience.
 - Python: The primary language for integrating the model, interface, and audio conversion.
 - GitHub: For code versioning and project collaboration.
+##  inputs:
+- image: The image input provided by the user.
+- question: The question input provided by the user.
+## Outputs:
+- voice.
 ## The Colab URLs:
 - Full-Implementation: [Colab Notebook Link](https://colab.research.google.com/drive/1nBDQaz2k_4L3zv8b8FUp309pdEFrA0jV?usp=sharing)
 - Gradio Example: [Gradio Implementation](https://huggingface.co/spaces/saja003/VQA-with-Audio)
