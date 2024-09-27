@@ -1,5 +1,4 @@
-# VQA-with-Audio
-# Visual Question Answering using BLIP and Gradio
+# VQA-with-Audio using BLIP and Gradio
 ## Project Description
 This project aims to develop an interactive application that answers visual questions based on an image uploaded by the user. The application utilizes a pre-trained model from Hugging Face's BLIP (Bootstrapped Language Image Pre-training) series, allowing users to ask questions related to the uploaded image. The response is generated in both text and audio formats, providing an engaging and versatile user experience.
 
