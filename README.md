@@ -15,7 +15,7 @@ This project aims to develop an interactive application that answers visual ques
 - GitHub: For code versioning and project collaboration.
 ## The Colab URLs:
 - Full-Implementation: [Colab Notebook Link](https://colab.research.google.com/drive/1nBDQaz2k_4L3zv8b8FUp309pdEFrA0jV?usp=sharing)
-- Gradio Example: Gradio Implementation
+- Gradio Example: [Gradio Implementation](https://huggingface.co/spaces/saja003/VQA-with-Audio)
 ## The Video URL:
 - Project Demo Video
 ## Objectives:
