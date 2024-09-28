@@ -25,7 +25,7 @@ Moreover, datasets for this task are mainly in English, and developing an Arabic
 - Full-Implementation: [Colab Notebook Link](https://colab.research.google.com/drive/1nBDQaz2k_4L3zv8b8FUp309pdEFrA0jV?usp=sharing)
 - Gradio Example: [Gradio Implementation](https://huggingface.co/spaces/saja003/VQA-with-Audio)
 ## The Video URL:
-- [Project  Video:](https://drive.google.com/file/d/1_ZoLPdzxAvP5hQJkwnpRSTSnPWXdjcPz/view?usp=sharing)
+- [Project  Video](https://drive.google.com/file/d/1_ZoLPdzxAvP5hQJkwnpRSTSnPWXdjcPz/view?usp=sharing)
 ## Objectives:
 - Enable users to interact with images through natural language questions.
 - Provide audio responses to make the application more engaging and accessible.
