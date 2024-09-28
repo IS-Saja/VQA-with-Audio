@@ -17,7 +17,7 @@ This project aims to develop an interactive application that answers visual ques
 - image: The image input provided by the user.
 - question: The question input provided by the user.
 ## Outputs:
-- voice.
+- voice answer: The voice output provided by the BLIP and gTTS model.
 ## Arabic language problems:
 After research, it was found that there are significant limitations in available VQ&A models for Arabic. Models like BLIP are designed for English, and there are no equivalent Arabic models with the same capabilities. 
 Moreover, datasets for this task are mainly in English, and developing an Arabic model from scratch would require extensive resources, which are beyond the project’s scope. Hence, using the English model is more feasible.
